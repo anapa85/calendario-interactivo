@@ -1,0 +1,1208 @@
+[
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 1",
+    "PARTIDO": "(113) BERISSO",
+    "Día": "2026-03-25",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 1",
+    "PARTIDO": "(014) C. BRANDSEN",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 1",
+    "PARTIDO": "(114) ENSENADA",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 1",
+    "PARTIDO": "(001) LA PLATA",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 1",
+    "PARTIDO": "(064) MAGDALENA",
+    "Día": "2026-03-25",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 1",
+    "PARTIDO": "(134) PUNTA INDIO",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 2",
+    "PARTIDO": "(005) AVELLANEDA",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 2",
+    "PARTIDO": "(062) L. DE ZAMORA",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 2",
+    "PARTIDO": "(111) LANUS",
+    "Día": "2026-03-25",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 3",
+    "PARTIDO": "(069) LA MATANZA",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 4",
+    "PARTIDO": "(119) BERAZATEGUI",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 4",
+    "PARTIDO": "(032) F. VARELA",
+    "Día": "2026-03-25",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 4",
+    "PARTIDO": "(085) QUILMES",
+    "Día": "2026-03-25",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 5",
+    "PARTIDO": "(004) A. BROWN",
+    "Día": "2026-03-26",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 5",
+    "PARTIDO": "(030) E. ECHEVERRIA",
+    "Día": "2026-03-26",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 5",
+    "PARTIDO": "(130) EZEIZA",
+    "Día": "2026-03-26",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 5",
+    "PARTIDO": "(129) PTE. PERON",
+    "Día": "2026-03-26",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 5",
+    "PARTIDO": "(099) SAN VICENTE",
+    "Día": "2026-03-26",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 6",
+    "PARTIDO": "(095) SAN FERNANDO",
+    "Día": "2026-03-26",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 6",
+    "PARTIDO": "(096) SAN ISIDRO",
+    "Día": "2026-03-26",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 6",
+    "PARTIDO": "(055) TIGRE",
+    "Día": "2026-03-26",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 6",
+    "PARTIDO": "(109) VTE. LOPEZ",
+    "Día": "2026-03-26",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 7",
+    "PARTIDO": "(135) HURLINGHAM",
+    "Día": "2026-03-27",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 7",
+    "PARTIDO": "(045) G. SAN MARTIN",
+    "Día": "2026-03-27",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "Tema 1",
+    "REGION": "REGION 7",
+    "PARTIDO": "(117) T. DE FEBRERO",
+    "Día": "2026-03-27",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 3",
+    "Área": "Secundaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "8 hs",
+    "Lugar": "Sede 1",
+    "Área": "Primaria"
+  },
+  {
+    "Titulo": "",
+    "REGION": "",
+    "PARTIDO": "",
+    "Día": "",
+    "Hora": "9 hs",
+    "Lugar": "Sede 1",
+    "Área": "Inicial"
+  }
+]
